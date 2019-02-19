@@ -1,0 +1,1 @@
+stimulate click events with javascript
